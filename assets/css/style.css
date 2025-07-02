@@ -6,7 +6,7 @@ body {
 }
 
 .banner-content {
-    background-image: url(images/woman-code.png), linear-gradient(180deg, rgba(0, 0, 0, 0.6), rgba(49, 168, 221, 0.2), rgba(0, 0, 0, 0.6));
+    background-image: url(../images/banner.png), linear-gradient(180deg, rgba(0, 0, 0, 0.6), rgba(49, 168, 221, 0.2), rgba(0, 0, 0, 0.6));
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -126,7 +126,7 @@ body {
 }
 
 #transform-world {
-    background-image: url(/trilha-css-desafio-01-main/assets/images/woman-code.png);
+    background-image: url(../images/woman-code.png);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
